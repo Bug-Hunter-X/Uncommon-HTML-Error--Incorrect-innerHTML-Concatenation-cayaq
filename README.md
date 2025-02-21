@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error related to the use of innerHTML in HTML.  The bug involves incorrectly concatenating a string with an HTML element using the innerHTML property, which results in a JavaScript error. The solution shows how to correctly concatenate strings and HTML elements to avoid this problem.
